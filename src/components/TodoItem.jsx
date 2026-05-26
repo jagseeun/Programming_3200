@@ -39,7 +39,6 @@ export default function TodoItem({ todo, toggleTodo, deleteTodo, editTodo }) {
                     autoFocus
                 />
             }
-            <span>날짜</span>
             <Button
                 className="todo__button todo__button--edit"
                 onClick={handleEditClick}
