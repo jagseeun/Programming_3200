@@ -39,5 +39,3 @@ npm create vite@latest .
   <Link to="/"></Link>
   ```
 - `useNavigate()`
--3214 장세은
-- 3214 장세은  1-1	날짜 표시?	★	Date, 컴포넌트 렌더링
